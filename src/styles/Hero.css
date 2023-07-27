@@ -1,0 +1,17 @@
+.mask{
+    background-color: rgba(0, 0, 0, 0.6)
+}
+
+.bg-image{
+    background-image: url('https://smartsite-production.s3.amazonaws.com/images/new_home_co/salon-grupal.jpeg');
+    height: 570px;
+}
+
+.d-flex{
+    height: 400px !important;
+}
+
+.titulo-hero{
+    color: rgb(255, 255, 255);
+}
+

@@ -1,0 +1,13 @@
+.jkl{
+    background-image: url('https://smartsite-production.s3.amazonaws.com/images/new_home_co/maquinas-ultima-tecnologia.jpg');
+}
+
+.titulo-hero{
+    font-size: 3.5rem;
+    color: rgb(240, 219, 31);
+}
+
+.icono-insta{
+    height: 40px;
+    width: 40px;
+}

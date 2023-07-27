@@ -1,0 +1,17 @@
+.card{
+    width: 20rem;
+    /* margin-right: 20px; */
+    margin-top: 30px;
+    background-color: rgb(62, 64, 65) !important;
+}
+
+.container-body{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    justify-content: space-between;
+
+}
+
+.card-body{ 
+    color: white !important;
+}
